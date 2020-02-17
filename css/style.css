@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.container {
+    max-width: 80%;
+    margin: 0 auto;
+}
+
+.title {
+    text-align: center;
+}
+
+h1 {
+    margin: 30px;
+}
+
+.passwords {
+    text-align: center;
+}
+
+.passwords div {
+    margin: 20px 0;
+}
